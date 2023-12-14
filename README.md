@@ -13,3 +13,5 @@ When read together, they form a surreal story of digital consciousness.
 
 This is fragment 12 of 20. The complete story emerges when all fragments are read in sequence.
 <!-- Fragment 12 whispers: 1 -->
+
+<!-- Fragment 12 whispers: 2 -->
